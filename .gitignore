@@ -2,4 +2,5 @@
 Debug
 *.filters
 *.user
-
+*.xcodeproj
+*.Ds_store
